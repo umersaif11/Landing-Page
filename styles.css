@@ -38,7 +38,8 @@ ul{
 }
 a{
     text-decoration: none;
-    color: white;
+    color: #E5E7EB;
+    font-size: 18px;
 }
 .sections{
     border: 1px solid red;
@@ -54,7 +55,7 @@ a{
     align-items: center;
 }
 .section-1-center{
-    padding: 32px;
+    padding: 32px 0;
     width: 1000px;
     display: flex;
 }
@@ -62,6 +63,7 @@ a{
     border: 1px solid red;
     height: 250px;
     width: 500px;
+    
 }
 .section-1-right{
     border: 1px solid red;
