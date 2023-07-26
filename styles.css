@@ -49,6 +49,24 @@ a{
 .section-1{
     border: 1px solid red;
     flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.section-1-center{
+    padding: 32px;
+    width: 1000px;
+    display: flex;
+}
+.section-1-left{
+    border: 1px solid red;
+    height: 250px;
+    width: 500px;
+}
+.section-1-right{
+    border: 1px solid red;
+    height: 250px;
+    width: 500px;
 }
 .section-2, .section-3, .section-4{
     border: 1px solid red;
