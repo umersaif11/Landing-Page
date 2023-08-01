@@ -1,5 +1,9 @@
 # Landing-Page
 This project is about the entire web page design using the HTML and CSS( particularly Flexbox).
+
+Note: Open this web page on laptop not on mobile phone as accessibility is not used yet.
+
+
 Refrences:
 Pic in section 1: https://images.pexels.com/photos/3458362/pexels-photo-3458362.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
 Pic 1 in section 2: https://4.imimg.com/data4/DE/EG/MY-1357774/tractor-rotavator-machine-250x250.jpg
