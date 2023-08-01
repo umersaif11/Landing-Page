@@ -1,7 +1,7 @@
 # Landing-Page
 This project is about the entire web page design using the HTML and CSS( particularly Flexbox).
 
-Note: Open this web page on laptop not on mobile phone as accessibility is not used yet.
+Note: Open this web page on laptop not on mobile phone as responsiveness/accessibility is not used yet.
 
 
 Refrences:
